@@ -1,6 +1,11 @@
 .App {
   text-align: center;
+
+  background: var(--primary-bg);
+  color: var(--secondary-text);
+  overflow: hidden;
 }
+
 
 .App-logo {
   height: 40vmin;
